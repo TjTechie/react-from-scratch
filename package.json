@@ -1,0 +1,27 @@
+{
+  "name": "react-from-scratch",
+  "version": "1.0.0",
+  "description": "This is a practice project",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TjTechie/react-from-scratch.git"
+  },
+  "author": "Tejasvita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TjTechie/react-from-scratch/issues"
+  },
+  "homepage": "https://github.com/TjTechie/react-from-scratch#readme",
+  "devDependencies": {
+    "parcel": "^2.8.2",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
